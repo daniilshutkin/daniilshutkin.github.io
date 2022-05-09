@@ -17,6 +17,10 @@ function transition() {
         250)
 }
 var en = {
+    'name_one_company' : 'Promenergosafety',
+    'special_one_company' : 'Development of enterprise equipment website',
+    'one_place' : 'Yekaterinburg, Russia',
+    'experience_work' : 'Experience',
     'a1': 'SwiftBook basics of programming.',
     'achievements': '<h3>My achievements</h3>',
     'skills': '<h3>Skills</h3>',
@@ -36,12 +40,16 @@ var en = {
     'q2': 'Working with MySQL databases.',
     'q1': 'Writing technical documentation for developed functional.',
     'description_text': 'Key skills and responsibilities:',
-    'description': '<b>About me:</b> I have no experience in commercial development, but I have experience of passing a semiannual internship as part of a development team.',
+    'description': '<b>About me:</b> I have experience of passing a six-month internship in web development as part of a team. I do sports and have no bad habits. I study iOS development on my own, solve tasks on LeetCode.',
     'name': '<h1>Daniil Shutkin</h1><h2>iOS developer</h2>',
     'theme': '<span>Dark Mode</span>',
     'language': '<span>Language</span>',
 }; var ru = {
-    'a1': 'SwiftBook основы программирования',
+    'name_one_company' : 'Промэнергобезопасность',
+    'special_one_company' : 'Разработка сайта оборудования предприятия',
+    'one_place' : 'Екатеринбург, Россия',
+    'experience_work' : 'Опыт',
+    'a1': 'SwiftBook основы программирования.',
     'achievements': '<h3>Мои достижения</h3>',
     'skills': '<h3>Навыки</h3>',
     'serov_place': 'Серов, Россия',
@@ -60,7 +68,7 @@ var en = {
     'q2': 'Работа с базами данных MySQL.',
     'q1': 'Написание технической документации для разрабатываемого функционала.',
     'description_text': 'Ключевые навыки и обязанности:',
-    'description': '<b>О себе:</b> нет опыта в коммерческой разработке, но есть опыт прохождения полугодовой практики в составе команды разработчиков.',
+    'description': '<b>О себе:</b> У меня есть опыт прохождения шестимесячной стажировки в области веб-разработки в составе команды. Я занимаюсь спортом и не имею вредных привычек. Я самостоятельно изучаю разработку iOS, решаю задачи на LeetCode.',
     'name':'<h1>Даниил Шуткин</h1><h2>iOS разработчик</h2>',
     'theme': '<span>Dark Mode</span>',
     'language': '<span>Language</span>',
